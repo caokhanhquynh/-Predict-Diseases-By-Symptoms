@@ -11,7 +11,7 @@ This is a simple Flask web application that predicts diseases based on user-prov
 
 To run this application, you need to have the following installed:
 
-- Python 3.x
+- Python 3
 - Flask
 - Pandas
 - scikit-learn
@@ -19,4 +19,5 @@ To run this application, you need to have the following installed:
 You can install the required Python packages using:
 
 ```bash
-pip install flask pandas scikit-learn
+pip3 install flask pandas scikit-learn
+```
